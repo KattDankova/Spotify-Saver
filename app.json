@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Spotify-saver-v2",
+    "slug": "Spotify-saver-v2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon_ss.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#371f1e"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kattzuha.Spotifysaverv2"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.kattzuha.Spotifysaverv2"
+    },
+    "web": {
+      "favicon": "./assets/icon_ss.png"
+    },
+    "scheme": "spotify-saver",
+    "extra": {
+      "eas": {
+        "projectId": "a89b8ef1-035b-4f36-bc99-0f94fa2d8edc"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a89b8ef1-035b-4f36-bc99-0f94fa2d8edc"
+    }
+  }
+}
