@@ -3,6 +3,6 @@
 
 Myšlenka projektu byla moje organizovanost - mít přehled o tom který z mých oblíbených umělců vydal nové album/singl
 
-Funkce aplikace je, že vyhledáme oblíbeného umělce uložíme si ho do databáze. Alba uložených umělců se dají označit jako poslechnuté a pokud má umělec nové album, ukáže se na hlavní stránce i s počtem nových alb.
+Funkcí aplikace je dohledání oblíbeného umělce a uložení do databáze. Alba uložených umělců se dají označit jako poslechnuté a pokud má umělec nové album, ukáže se na hlavní stránce i s počtem nových alb
 
-K tomuto jsem využila **Spotify API**. Pro přístup k tomuto API je potřeba účet Spotify **(pro získání authentikačního tokenu)**
+K tomuto je využito **Spotify API**. Pro přístup ke Spotify API je potřeba účet Spotify **(získání autentifikačního tokenu)**
